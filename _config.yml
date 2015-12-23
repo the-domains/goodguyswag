@@ -1,7 +1,7 @@
 name: GoodGuySwag
 favicon: null
-layout_spectrum: 0.02390443067997694
-typography_spectrum: 0.804876399692148
+layout_spectrum: 0.76197
+typography_spectrum: 0.5556
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6d6f6e'
     - '#999997'
   brandStrength: 0.4375
-  lightness: 0.47539061261340976
-  saturation: 0.8706683362834156
-  rhythmicContrast: 0.8215728220529854
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
