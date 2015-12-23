@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GoodGuySwag]]></title>
+        <description><![CDATA[GoodGuySwag]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 18:48:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Ways To Win A Girl's Heart]]></title>
+            <description><![CDATA[<article><h1>10 Ways To Win A Girl's Heart</h1><p>“This book is more than just about learning the ways to win a girl’s heart, it’s also about taking a deep look into your own life to examine the kind of man you are now, so that you can grow into becoming the best version of the man you were meant to be” – Kris Wolfe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba3f8c40c3acd04b05536d97d84657ca51fd8444.jpg"></article>]]></description>
+            <link>undefined10-ways-to-win-a-girls-heart/index.html</link>
+            <guid isPermaLink="false">edcf34a0-764c-4184-9413-3c052c13f948</guid>
+            <pubDate>Wed, 23 Dec 2015 18:48:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
