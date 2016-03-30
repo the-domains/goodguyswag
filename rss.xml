@@ -4,8 +4,15 @@
         <description><![CDATA[GoodGuySwag]]></description>
         <link>https://thegrid.ai/goodguyswag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 17:00:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 18:00:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goodguyswag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/03/image-6-e1459360024451.jpeg">]]></description>
+            <link>https://thegrid.ai/goodguyswag/6a45f2a3-fef4-4b82-bb98-a38a3c9d933d/index.html</link>
+            <guid isPermaLink="false">6a45f2a3-fef4-4b82-bb98-a38a3c9d933d</guid>
+            <pubDate>Wed, 30 Mar 2016 18:00:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/03/image-5-e1459182809814.jpeg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/goodguyswag/792b25e4-fa40-483c-8f1c-686532142895/index.html</link>
             <guid isPermaLink="false">792b25e4-fa40-483c-8f1c-686532142895</guid>
             <pubDate>Mon, 04 Jan 2016 19:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Ways To Win A Girl's Heart]]></title>
-            <description><![CDATA[<article><h1>10 Ways To Win A Girl's Heart</h1><p>“This book is more than just about learning the ways to win a girl’s heart, it’s also about taking a deep look into your own life to examine the kind of man you are now, so that you can grow into becoming the best version of the man you were meant to be” – Kris Wolfe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba3f8c40c3acd04b05536d97d84657ca51fd8444.jpg"></article>]]></description>
-            <link>https://thegrid.ai/goodguyswag/10-ways-to-win-a-girls-heart/index.html</link>
-            <guid isPermaLink="false">edcf34a0-764c-4184-9413-3c052c13f948</guid>
-            <pubDate>Wed, 23 Dec 2015 18:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
