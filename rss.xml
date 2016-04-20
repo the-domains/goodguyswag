@@ -4,8 +4,15 @@
         <description><![CDATA[GoodGuySwag]]></description>
         <link>https://thegrid.ai/goodguyswag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 18:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 18:21:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goodguyswag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/04/image-6-e1460479665317.jpeg">]]></description>
+            <link>https://thegrid.ai/goodguyswag/cf3fa11b-d912-4a4d-bd23-87470f67a681/index.html</link>
+            <guid isPermaLink="false">cf3fa11b-d912-4a4d-bd23-87470f67a681</guid>
+            <pubDate>Wed, 20 Apr 2016 18:21:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/03/image-6-e1459360024451.jpeg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/goodguyswag/4069d1a4-814a-4603-a659-53bd44f6bf2a/index.html</link>
             <guid isPermaLink="false">4069d1a4-814a-4603-a659-53bd44f6bf2a</guid>
             <pubDate>Tue, 05 Jan 2016 00:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/01/image-e1451932563663.jpg">]]></description>
-            <link>https://thegrid.ai/goodguyswag/792b25e4-fa40-483c-8f1c-686532142895/index.html</link>
-            <guid isPermaLink="false">792b25e4-fa40-483c-8f1c-686532142895</guid>
-            <pubDate>Mon, 04 Jan 2016 19:26:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
