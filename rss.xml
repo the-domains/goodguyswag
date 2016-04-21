@@ -4,8 +4,15 @@
         <description><![CDATA[GoodGuySwag]]></description>
         <link>https://thegrid.ai/goodguyswag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 18:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 18:12:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goodguyswag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/04/image-7-e1460556764847.jpeg">]]></description>
+            <link>https://thegrid.ai/goodguyswag/20194e1b-aad8-448c-81d9-4b7332e53259/index.html</link>
+            <guid isPermaLink="false">20194e1b-aad8-448c-81d9-4b7332e53259</guid>
+            <pubDate>Thu, 21 Apr 2016 18:12:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/04/image-6-e1460479665317.jpeg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://goodguyswag.com/making-a-difference-to-one/</link>
             <guid isPermaLink="false">1d98f0ec-990a-4a71-908f-df908c271ec9</guid>
             <pubDate>Mon, 11 Jan 2016 19:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2015/11/image3.jpeg">]]></description>
-            <link>https://thegrid.ai/goodguyswag/4069d1a4-814a-4603-a659-53bd44f6bf2a/index.html</link>
-            <guid isPermaLink="false">4069d1a4-814a-4603-a659-53bd44f6bf2a</guid>
-            <pubDate>Tue, 05 Jan 2016 00:56:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
