@@ -4,8 +4,15 @@
         <description><![CDATA[GoodGuySwag]]></description>
         <link>https://thegrid.ai/goodguyswag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 18:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 18:04:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goodguyswag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/03/image-5-e1459182809814.jpeg">]]></description>
+            <link>http://goodguyswag.com/boys-vs-men/</link>
+            <guid isPermaLink="false">19222514-229e-49b3-8e36-7c845a91fff7</guid>
+            <pubDate>Thu, 28 Jul 2016 18:04:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/04/image-7-e1460556764847.jpeg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/goodguyswag/5cea82a5-2167-4937-b582-936ea79f5079/index.html</link>
             <guid isPermaLink="false">5cea82a5-2167-4937-b582-936ea79f5079</guid>
             <pubDate>Fri, 29 Jan 2016 04:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://goodguyswag.com/wp-content/uploads/2016/01/image-1-e1452537581362.jpg">]]></description>
-            <link>http://goodguyswag.com/making-a-difference-to-one/</link>
-            <guid isPermaLink="false">1d98f0ec-990a-4a71-908f-df908c271ec9</guid>
-            <pubDate>Mon, 11 Jan 2016 19:43:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
